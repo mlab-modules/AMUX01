@@ -39,8 +39,8 @@
 
   (setup
     (pad_to_mask_clearance 0)
-    (aux_axis_origin 111.76 111.76)
-    (grid_origin 128.18 84.68)
+    (aux_axis_origin 123.1 130.4)
+    (grid_origin 123.1 130.4)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -873,7 +873,7 @@
     )
   )
 
-  (gr_rect (start 128.434 84.934) (end 168.566 125.066) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp 8ee3418f-fb16-4106-b466-423a35d820cb))
+  (gr_rect (start 128.434 84.934) (end 168.566 125.066) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp a530832e-0acd-43ac-99fa-ff408fc7e221))
   (dimension (type aligned) (layer "Cmts.User") (tstamp 02b6cedf-1f5f-4607-9dc2-d38947abfb42)
     (pts (xy 168.566 125.066) (xy 168.566 84.934))
     (height 5.334)
@@ -967,7 +967,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp edda5e27-aacc-40ab-8f5c-bd155ad8ab64)
     (pts (xy 168.566 125.066) (xy 168.566 84.934))
     (height 10.414)
-    (gr_text "40.132 mm" (at 177.83 105 90) (layer "Cmts.User") (tstamp edda5e27-aacc-40ab-8f5c-bd155ad8ab64)
+    (gr_text "40,132 mm" (at 177.83 105 90) (layer "Cmts.User") (tstamp edda5e27-aacc-40ab-8f5c-bd155ad8ab64)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4) suppress_zeroes)
