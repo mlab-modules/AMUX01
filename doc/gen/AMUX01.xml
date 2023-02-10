@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/AMUX01.kicad_sch</source>
+    <date>Fri Feb 10 00:21:30 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>AMUX01</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev>A</rev>
+        <date>%d. %m. %Y</date>
+        <source>AMUX01.kicad_sch</source>
+        <comment number="1" value="Four channel analog multiplexer\nwith single-sided output "/>
+        <comment number="2" value="kaklik@mlab.cz"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbe</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d2a73e9-4c61-4f64-a858-d2b8a9a4b473</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+        <field name="UST_id">C0805_100n</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value="C0805_100n"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fab2e4e-c967-46aa-8b62-a4eb722fba85</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BZV55C-5,6V</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b2</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="D_ZENER-MLAB_D" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88b2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1e3c55-10e7-496c-9431-54c316ba931e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1.6 V to 3.6V</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="header" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d65bc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d2007d-1e44-45ce-8403-34595bcc41d3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7eba4d7-3a7f-4ebc-9209-75a65a843b2f</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0eaf5b3-1661-43ea-b62a-4a1a7c7b5460</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d14b23a0-3e81-4408-a9c5-fc9685bc6a43</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fefe549-e7d3-4419-bd4e-43b6309cc1c2</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b73a588-9bea-45b8-b740-00cac6b3a8ed</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daec623b-1ea0-4665-b09b-be6f7bbad328</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81d4b262-469f-4130-9697-e7a0d41424dc</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58c0eb6a-d8b5-45c5-8172-5357fb65e212</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>720d1016-7d70-41e7-8194-26484e5453e3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e757937a-0029-4b9b-84b1-e8dad234b307</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MAX4734EUB+</value>
+      <footprint>Package_SO:MSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4734.pdf</datasheet>
+      <libsource lib="MLAB_IO" part="MAX4734EUB+" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AMUX01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ec09d18-f451-4863-8d8a-97e617b736e1 0d079483-50d4-4239-a6c7-e55baa894ab6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small-Device-ISM02A-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="D_ZENER-MLAB_D">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ZENER-MLAB_D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x02">
+      <description>1x02 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x03">
+      <description>1x03 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="MAX4734EUB+">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX4734EUB+</field>
+        <field name="Footprint">Package_SO:MSOP-10_3x3mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="NO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="NO3" type="bidirectional"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="V+" type="passive"/>
+        <pin num="7" name="NO4" type="bidirectional"/>
+        <pin num="8" name="COM" type="bidirectional"/>
+        <pin num="9" name="NO2" type="bidirectional"/>
+        <pin num="10" name="A1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="header" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="mlab-default-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="passive"/>
+    </net>
+    <net code="2" name="/CH1">
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="NO1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/CH2">
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="NO2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/CH3">
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="NO3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/CH4">
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="NO4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="3" pintype="input"/>
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="J6" pin="5" pintype="input"/>
+      <node ref="J6" pin="6" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="J8" pin="2" pintype="input"/>
+      <node ref="J9" pin="2" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3" pintype="input"/>
+      <node ref="J6" pin="4" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="COM" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(J8-Pad1)">
+      <node ref="J8" pin="1" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(J9-Pad1)">
+      <node ref="J9" pin="1" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="EN" pintype="input"/>
+    </net>
+  </nets>
+</export>
