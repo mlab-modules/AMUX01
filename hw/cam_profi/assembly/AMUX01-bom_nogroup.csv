@@ -1,0 +1,10 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,ust_id
+1,,C_Small-Device-ISM02A-rescue,C2,100nF,C_0805_2012Metric,1,,5c70984812875079b91f8bf2
+2,,C_Small-Device-ISM02A-rescue,C1,10uF,C_0805_2012Metric,1,,5c70984812875079b91f8bbe
+3,,D_ZENER-MLAB_D,D1,"BZV55C-5,6V",D_SMA,1,,5c70984512875079b91f88b2
+4,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,J1,1.6 V to 3.6V,Straight_2x03,1,,
+5,1x02 2.54 mm pitch header,HEADER_1x02,J7J8J9,HEADER_1x02,Straight_2x01,3,,
+6,1x03 2.54 mm pitch header,HEADER_1x03,J2J3J4J5,HEADER_1x03,Straight_1x03,4,,
+7,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,J6,HEADER_2x03_PARALLEL,Straight_2x03,1,,
+8,Resistor,R,R1R2R3,10k,R_0805_2012Metric,3,~,
+9,,MAX4734EUB+,U1,MAX4734EUB+,MSOP-10_3x3mm_P0.5mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4734.pdf,

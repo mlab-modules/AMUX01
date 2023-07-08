@@ -1,0 +1,21 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","10uF","C_0805_2012Metric",31.7500,18.5420,-90.0000,bottom
+"C2","100nF","C_0805_2012Metric",31.2420,28.4480,-90.0000,bottom
+"D1","BZV55C-5,6V","D_SMA",37.8460,21.3360,-90.0000,bottom
+"J1","1.6 V to 3.6V","Straight_2x03",25.4000,39.8780,-90.0000,top
+"J2","HEADER_1x03","Straight_1x03",11.4300,17.2720,90.0000,top
+"J3","HEADER_1x03","Straight_1x03",11.4300,24.8920,90.0000,top
+"J4","HEADER_1x03","Straight_1x03",11.4300,19.8120,90.0000,top
+"J5","HEADER_1x03","Straight_1x03",11.4300,22.3520,90.0000,top
+"J6","HEADER_2x03_PARALLEL","Straight_2x03",26.6700,11.1760,90.0000,top
+"J7","HEADER_1x02","Straight_2x01",20.8280,29.2100,90.0000,top
+"J8","HEADER_1x02","Straight_2x01",23.3680,29.2100,90.0000,top
+"J9","HEADER_1x02","Straight_2x01",25.9080,29.2100,90.0000,top
+"M1","HOLE M3","MountingHole_3mm",10.1600,40.6400,0.0000,top
+"M2","HOLE M3","MountingHole_3mm",40.6400,40.6400,0.0000,top
+"M3","HOLE","MountingHole_3mm",10.1600,10.1600,0.0000,top
+"M4","HOLE","MountingHole_3mm",40.6400,10.1600,0.0000,top
+"R1","10k","R_0805_2012Metric",29.3080,34.0360,-90.0000,bottom
+"R2","10k","R_0805_2012Metric",32.2580,34.0360,-90.0000,bottom
+"R3","10k","R_0805_2012Metric",20.1695,13.4620,180.0000,bottom
+"U1","MAX4734EUB+","MSOP-10_3x3mm_P0.5mm",22.8600,20.3200,180.0000,bottom
