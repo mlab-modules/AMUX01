@@ -12,11 +12,11 @@ images:
 - doc/gen/AMUX01-schematic.svg
 - doc/gen/img/AMUX01-bottom.svg
 - doc/gen/img/AMUX01-top.svg
-- hw/cam_profi/docs/AMUX01A-assembly_page_02.svg
-- hw/cam_profi/docs/AMUX01A-assembly_page_01.svg
+- hw/cam_profi/assembly/AMUX01-assembly_page_02.svg
+- hw/cam_profi/assembly/AMUX01-assembly_page_01.svg
 issues: 0
 mark: 50
-mod_ibom: hw/cam_profi/ibom/AMUX01-ibom.html
+mod_ibom: hw/cam_profi/AMUX01-ibom.html
 mod_scheme: doc/gen/AMUX01-schematic.pdf
 tags:
 - mlab
