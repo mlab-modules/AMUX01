@@ -497,7 +497,7 @@
 </g> 
 </g><g id="substrate-silk" style="fill:#0b1013; stroke:#0b1013;" mask="url(#pads-mask-silkscreen)"><g style="fill-opacity: 0.0;stroke-width: 0.1500;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <g transform="rotate(-90.000000 153.1700 111.8580)">
-<text x="153.1700" y="112.3580" transform="scale(-1 1) translate(-306.340000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">C1</text>
+<text x="153.1700" y="112.3580" transform="scale(-1 1) translate(-306.340000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">C1</text>
 </g>
 <g class="stroked-text"><desc>C1</desc>
 <path d="M153.5296 111.6913 L153.5772 111.6437 "/>
@@ -521,7 +521,7 @@
 <path d="M152.7677 112.2628 L152.8629 112.1675 "/>
 <path d="M152.8629 112.1675 L152.9105 112.0723 "/>
 </g><g transform="rotate(-90.000000 158.4460 109.0640)">
-<text x="158.4460" y="109.5640" transform="scale(-1 1) translate(-316.892000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">D1</text>
+<text x="158.4460" y="109.5640" transform="scale(-1 1) translate(-316.892000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">D1</text>
 </g>
 <g class="stroked-text"><desc>D1</desc>
 <path d="M158.9008 108.3259 L157.9008 108.3259 "/>
@@ -541,7 +541,7 @@
 <path d="M157.9008 109.5640 L158.0437 109.4688 "/>
 <path d="M158.0437 109.4688 L158.1389 109.3735 "/>
 <path d="M158.1389 109.3735 L158.1865 109.2783 "/>
-</g><text x="145.9600" y="107.9800" transform="scale(-1 1) translate(-291.920000 0)" textLength="2.1750" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">U1</text>
+</g><text x="145.9600" y="107.9800" transform="scale(-1 1) translate(-291.920000 0)" textLength="2.2500" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">U1</text>
 <g class="stroked-text"><desc>U1</desc>
 <path d="M146.7219 106.9348 L146.7219 107.7443 "/>
 <path d="M146.7219 107.7443 L146.6743 107.8396 "/>
@@ -558,7 +558,7 @@
 <path d="M145.5314 107.0777 L145.6267 107.1729 "/>
 <path d="M145.6267 107.1729 L145.7219 107.2205 "/>
 </g><g transform="rotate(-90.000000 152.6620 101.9520)">
-<text x="152.6620" y="102.4520" transform="scale(-1 1) translate(-305.324000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">C2</text>
+<text x="152.6620" y="102.4520" transform="scale(-1 1) translate(-305.324000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">C2</text>
 </g>
 <g class="stroked-text"><desc>C2</desc>
 <path d="M153.0216 101.7853 L153.0692 101.7377 "/>
@@ -586,7 +586,7 @@
 <path d="M152.4025 102.7377 L152.5454 102.6901 "/>
 <path d="M152.5454 102.6901 L153.1168 102.1187 "/>
 <path d="M153.1168 102.1187 L153.1168 102.7377 "/>
-</g><text x="143.2695" y="115.7880" transform="scale(-1 1) translate(-286.539000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R3</text>
+</g><text x="143.2695" y="115.7880" transform="scale(-1 1) translate(-286.539000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R3</text>
 <g class="stroked-text"><desc>R3</desc>
 <path d="M143.4362 115.7428 L143.7695 115.2666 "/>
 <path d="M144.0076 115.7428 L144.0076 114.7428 "/>
@@ -613,7 +613,7 @@
 <path d="M142.9600 115.7428 L143.0552 115.6952 "/>
 <path d="M143.0552 115.6952 L143.1028 115.6476 "/>
 </g><g transform="rotate(-90.000000 150.7580 96.3640)">
-<text x="150.7580" y="96.8640" transform="scale(-1 1) translate(-301.516000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R1</text>
+<text x="150.7580" y="96.8640" transform="scale(-1 1) translate(-301.516000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R1</text>
 </g>
 <g class="stroked-text"><desc>R1</desc>
 <path d="M151.2128 96.1973 L150.7366 95.8640 "/>
@@ -633,7 +633,7 @@
 <path d="M150.3557 96.7688 L150.4509 96.6735 "/>
 <path d="M150.4509 96.6735 L150.4985 96.5783 "/>
 </g><g transform="rotate(-90.000000 153.7080 96.3640)">
-<text x="153.7080" y="96.8640" transform="scale(-1 1) translate(-307.416000 0)" textLength="2.1274" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R2</text>
+<text x="153.7080" y="96.8640" transform="scale(-1 1) translate(-307.416000 0)" textLength="2.2024" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">R2</text>
 </g>
 <g class="stroked-text"><desc>R2</desc>
 <path d="M154.1628 96.1973 L153.6866 95.8640 "/>
