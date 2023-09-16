@@ -12,8 +12,8 @@ images:
 - doc/gen/AMUX01-schematic.svg
 - doc/gen/img/AMUX01-bottom.svg
 - doc/gen/img/AMUX01-top.svg
-- hw/cam_profi/assembly/AMUX01-assembly_page_01.svg
 - hw/cam_profi/assembly/AMUX01-assembly_page_02.svg
+- hw/cam_profi/assembly/AMUX01-assembly_page_01.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/AMUX01-ibom.html
@@ -27,4 +27,4 @@ tags:
 - mlab-kicad
 - pcb
 title: AMUX01
-updated: '2023-09-11T00:28:46.796421+00:00'
+updated: '2023-09-16T16:03:34.391142+00:00'
