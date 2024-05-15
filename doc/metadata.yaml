@@ -8,13 +8,13 @@ github_url: https://github.com/mlab-modules/AMUX01
 homepage: true
 image_title: doc/gen/img/AMUX01-top.png
 images:
-- doc/gen/img/AMUX01-bottom.png
 - doc/gen/img/AMUX01-top.png
-- doc/gen/AMUX01-schematic.svg
-- doc/gen/img/AMUX01-bottom.svg
-- doc/gen/img/AMUX01-top.svg
-- hw/cam_profi/assembly/AMUX01-assembly_page_02.svg
+- doc/gen/img/AMUX01-bottom.png
 - hw/cam_profi/assembly/AMUX01-assembly_page_01.svg
+- hw/cam_profi/assembly/AMUX01-assembly_page_02.svg
+- doc/gen/AMUX01-schematic.svg
+- doc/gen/img/AMUX01-top.svg
+- doc/gen/img/AMUX01-bottom.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/AMUX01-ibom.html
@@ -29,4 +29,4 @@ tags:
 - mlab-kicad
 - pcb
 title: AMUX01
-updated: '2023-09-17T11:47:39.655190+00:00'
+updated: '2024-05-15T17:37:42.841445+00:00'
