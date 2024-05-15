@@ -19,7 +19,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/AMUX01-ibom.html
 mod_scheme: doc/gen/AMUX01-schematic.pdf
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
