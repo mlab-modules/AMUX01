@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/AMUX01
-summary: Four channel analog multiplexer with single-sided output
+summary: Four-channel analog multiplexer with single-sided output
