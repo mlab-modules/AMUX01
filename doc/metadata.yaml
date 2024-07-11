@@ -5,7 +5,6 @@ github_branches:
 github_description: Four channel analog multiplexer with single-sided output
 github_repo: AMUX01
 github_url: https://github.com/mlab-modules/AMUX01
-homepage: true
 image_title: doc/gen/img/AMUX01-top.png
 images:
 - doc/gen/img/AMUX01-top.png
